@@ -71,7 +71,7 @@ Work-life balance played a significant role in retention.
 
 Clone the repository:
 
-git clone https://github.com/your-username/employee-attrition-analysis.git
+git clone [https://github.com/your-username/employee-attrition-analysis.git](https://github.com/ZainabNehal/Employee-Attrition-Analysis)
 
 
 Navigate to project folder:
