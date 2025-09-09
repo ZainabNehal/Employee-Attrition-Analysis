@@ -1,4 +1,5 @@
 Employee Attrition Analysis
+
 📌 Project Overview
 
 Employee attrition (also known as employee turnover) is a critical challenge faced by organizations. This project analyzes employee data to identify key factors influencing attrition and builds insights using Python and Power BI. The goal is to help HR teams and management make data-driven decisions to improve employee retention.
